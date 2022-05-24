@@ -1,0 +1,30 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+@font-face {
+  font-family: 'black-mango-medium';
+  src: url(../fonts/black-mango-medium.ttf);
+}
+
+.bg-verde {
+  background-color: #9FA577;
+}
+
+.mango {
+  font-family: 'black-mango-medium';
+}
+
+.btn.btn-marrom {
+  background-color: #FCD6A8;
+}
+
+.btn.btn-marrom:hover {
+  background-color: #FDE3B7;
+}
+
+.cards-clarinhos .card {
+  border-color: #9FA577;
+}
+
+.text-clarinho {
+  color: #FCD6A8;
+}
+/*# sourceMappingURL=style.css.map */
